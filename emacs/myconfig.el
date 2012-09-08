@@ -1,0 +1,1 @@
+/home/freealbert/.emacs.d/personal/myconfig.el
